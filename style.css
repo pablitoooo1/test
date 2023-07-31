@@ -1,0 +1,14 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	height: 100vh;
+	font-family: "Montserrat", sans-serif;
+	overflow: hidden;
+	width: 50px;
+	color: #fff;
+	background: royalblue;
+}
